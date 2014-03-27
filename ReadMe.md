@@ -1,5 +1,9 @@
-OGC(r) Observation Extensions - ReadMe.txt
-====================================================
+OGC(r) Observation Extensions
+=============================
+
+This repository hosts the OGC-approved Observation Extentions to the
+Observations & Measurements (OM) XML schemas. We are adding this as a 
+public service as the schemas are not hosted on Github
 
 The Observations and Measurements schema are defined in the OGC document
 07-022r1.  The Observation Extensions are amended in the OGC change request
